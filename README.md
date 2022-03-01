@@ -6,7 +6,7 @@ Un juego de velocidad y reflejo basado en una secuencia de luces aleatoria que e
 
 Celia Torrecillas
 
-Qingyun Xu
+Qingyun Xu-qingyun.xu@alumnos.upm.es
 
 Amélie Nader Prieto (amelie-nader-prieto)
 
